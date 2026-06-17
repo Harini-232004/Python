@@ -59,3 +59,5 @@ for i in number:
         break
     stream.append(i)
 else:print('No duplicates found')
+
+print("Git connected sucessfully")
