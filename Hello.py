@@ -12,6 +12,8 @@
 #      if i%2==0:
 #       print(i, end=" ")
 print("Harinisan")
+print("Helooooo")
+
 # n=int(input("Enter the value: "))
 # result=[0]*n
 # for i in range(n):
